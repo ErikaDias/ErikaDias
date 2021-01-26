@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**ErikaDias/ErikaDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="left"> 
   Olá meu nome é Erika, aspirante em desenvolvimento <strong>Front-End</strong>.<br>
