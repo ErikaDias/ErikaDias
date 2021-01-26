@@ -4,15 +4,15 @@
 </p>
 
 <p align="left"> 
-    No meu tempo livre, estou estudando JavaScript, Git e GitHub.
+  :books: No meu tempo livre, estou estudando JavaScript, Git e GitHub.
 </p>
 
 <p align="left">
-    Habilidades Basicas: <strong>HTML5, CSS3 e JavaScript</strong>
+   :computer: Habilidades Basicas: <strong>HTML5, CSS3 e JavaScript</strong>
 </p>
 
 <p align="left">
- Ferramentas: <strong>VSCODE, Git e GitHub.</strong>
+ :hammer_and_wrench: Ferramentas: <strong>VSCODE, Git e GitHub.</strong>
 </p>
 
 
