@@ -1,6 +1,6 @@
 
 <p align="left"> 
-  Olá meu nome é Erika, aspirante em desenvolvimento <strong>Front-End</strong>.<br>
+  Olá meu nome é Érika, aspirante em desenvolvimento <strong>Front-End</strong>.<br>
 </p>
 
 <p align="left"> 
