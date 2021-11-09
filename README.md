@@ -1,6 +1,6 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Érika Dias</h1>
 
-- 💻 Estudante de Análise de Desenvolvimento de Sistemas
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 👩‍💻 Desenvolvimento Front end 
 - 🧪 Estagiária em QA Teste.
 
